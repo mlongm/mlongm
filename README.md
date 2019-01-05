@@ -1,8 +1,8 @@
 # mlongm
-## baiduAuto.py
+# baiduAuto.py
 python and selenium and other
 利用cookies自动登陆贴吧并签到。
-## 汉字网络字典
+# 汉字网络字典
 这是我用
 “船长”发布的汉字字频表为索引，
 （http://www.cslog.cn/Content/word-frequency-list-of-chinese/）
